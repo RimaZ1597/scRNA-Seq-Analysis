@@ -38,7 +38,7 @@ Used to measure gene expression.
 
 ## Bulk v/s single-cell RNA sequencing
 
-SINGLE CELL RNA SEQ ADVANTAGES
+SINGLE-CELL RNA SEQ ADVANTAGES
 
 - Allows you to compare the expression between cells
   
@@ -47,3 +47,19 @@ SINGLE CELL RNA SEQ ADVANTAGES
 - Understand spatial transcriptomics
   
 - Track cell lineage
+
+# Basic Workflow
+
+<img width="600" alt="scRNA3" src="https://github.com/user-attachments/assets/66e3a977-222b-49ca-9233-225064ca6631">
+
+### Single-cell Isolation
+
+- Limiting Dilution - Use pipettes to isolate cells by dilution
+  
+- Micromanipulation - Classic approach used to retrieve cells from samples with a small number of cells such as early embryos
+  
+- Flow-activated cell sorting - widely used for isolating single cells in suspension
+  
+- Fraser capture microdissection - An advanced technique used for isolating single cells from solid tissue by using a laser system
+
+
