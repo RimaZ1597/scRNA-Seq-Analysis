@@ -120,5 +120,19 @@ SINGLE-CELL RNA SEQ ADVANTAGES
    
 5. Scanpy
 
+### Seurat Workflow
 
+<img width="1189" alt="scRNA8" src="https://github.com/user-attachments/assets/5997b6b8-68c1-4bb2-be71-5f6cfd9169d0">
 
+### Required R Packages
+
+- library("AnnotationDbi")
+  
+- library("org.Hs.eg.db")
+  
+- library(tidyr)
+  
+- library(dplyr)
+  
+- library(Seurat)
+  
