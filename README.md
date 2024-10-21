@@ -35,4 +35,15 @@ Used to measure gene expression.
 - Extract RNA from all the cells
   
 - Sequence RNA from each cell and quantify the expression
+
+## Bulk v/s single-cell RNA sequencing
+
+SINGLE CELL RNA SEQ ADVANTAGES
+
+- Allows you to compare the expression between cells
   
+- Identify rare cell population
+  
+- Understand spatial transcriptomics
+  
+- Track cell lineage
