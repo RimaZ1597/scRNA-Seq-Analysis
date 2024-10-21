@@ -50,9 +50,8 @@ SINGLE-CELL RNA SEQ ADVANTAGES
 
 # Basic Workflow
 
-![image](https://github.com/user-attachments/assets/69498924-0392-4acb-b250-ad179e0d9fa0)
+<img width="500 alt="scRNA4" src="https://github.com/user-attachments/assets/b4c52fc9-ade4-4709-849b-3801d1b7ad03">
 
-<img width="600" alt="scRNA3" src="https://github.com/user-attachments/assets/66e3a977-222b-49ca-9233-225064ca6631">
 
 ### Single-cell Isolation
 
