@@ -62,4 +62,63 @@ SINGLE-CELL RNA SEQ ADVANTAGES
   
 - Fraser capture microdissection - An advanced technique used for isolating single cells from solid tissue by using a laser system
 
+### Technologies available
+
+| Method                  | Transcript Coverage | UMI Possibility | Strand Specific |
+|-------------------------|---------------------|-----------------|-----------------|
+| **Tang method**         | Nearly full-length  | No              | No              |
+| **Quartz-Seq**          | Full-length         | No              | No              |
+| **SUPeR-seq**           | Full-length         | No              | No              |
+| **Smart-seq**           | Full-length         | No              | No              |
+| **Smart-seq2**          | Full-length         | No              | No              |
+| **MATQ-seq**            | Full-length         | Yes             | Yes             |
+| **STRT-seq and STRT/C1**| 5′-only             | Yes             | Yes             |
+| **CEL-seq**             | 3′-only             | Yes             | Yes             |
+| **CEL-seq2**            | 3′-only             | Yes             | Yes             |
+| **MARS-seq**            | 3′-only             | Yes             | Yes             |
+| **CytoSeq**             | 3′-only             | Yes             | Yes             |
+| **Drop-seq**            | 3′-only             | Yes             | Yes             |
+| **InDrop**              | 3′-only             | Yes             | Yes             |
+| **Chromium**            | 3′-only             | Yes             | Yes             |
+| **SPLiT-seq**           | 3′-only             | Yes             | Yes             |
+| **sci-RNA-seq**         | 3′-only             | Yes             | Yes             |
+| **Seq-Well**            | 3′-only             | Yes             | Yes             |
+| **DroNC-seq**           | 3′-only             | Yes             | Yes             |
+| **Quartz-Seq2**         | 3′-only             | Yes             | Yes             |
+
+**Reference:** Chen, G., Ning, B., & Shi, T. (2019). Single-cell RNA-seq technologies and related computational data analysis. Frontiers in Genetics, 10(317). (https://doi.org/10.3389/fgene.2019.00317)
+
+### Read Mapping Tools
+#### Tools for Read Mapping and Expression Quantification of scRNA-seq Data
+
+| Tool         | Function                   | Link                                                            |
+|--------------|----------------------------|-----------------------------------------------------------------|
+| **TopHat2**  | Read mapping               | [TopHat2](https://ccb.jhu.edu/software/tophat/index.shtml)      |
+| **STAR**     | Read mapping               | [STAR](https://github.com/alexdobin/STAR)                       |
+| **HISAT2**   | Read mapping               | [HISAT2](https://github.com/DaehwanKimLab/hisat2)               |
+| **Cufflinks**| Expression quantification  | [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)     |
+| **RSEM**     | Expression quantification  | [RSEM](https://github.com/deweylab/RSEM)                        |
+| **StringTie**| Expression quantification  | [StringTie](https://github.com/gpertea/stringtie)               |
+
+**Reference:** Chen, G., Ning, B., & Shi, T. (2019). Single-cell RNA-seq technologies and related computational data analysis. Frontiers in Genetics, 10(317). (https://doi.org/10.3389/fgene.2019.00317)
+
+### scRNA seq Databases
+1. scRNASeqDB - (https://bioinfo.uth.edu/scrnaseqdb/)
+
+2. PanglaoDB - (https://panglaodb.se/)
+ 
+3. CancerSea - (http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp)
+   
+### Packages to analyze scRNA-seq data
+1. SingleCellExperiment
+  
+2. Seurat
+   
+3. Scater
+   
+4. Monocle3
+   
+5. Scanpy
+
+
 
