@@ -21,7 +21,7 @@ Used to measure gene expression.
      
 3. Data analysis
 
-<img width="300" alt="scrnaseq2" src="https://github.com/user-attachments/assets/690089f1-c845-4fd5-8c22-df585aadf375">
+<img width="500" alt="scrnaseq2" src="https://github.com/user-attachments/assets/690089f1-c845-4fd5-8c22-df585aadf375">
 
 ### BULK
 - Extract RNA
