@@ -21,7 +21,7 @@ Used to measure gene expression.
      
 3. Data analysis
 
-<img width="500" alt="scrnaseq2" src="https://github.com/user-attachments/assets/690089f1-c845-4fd5-8c22-df585aadf375">
+<img width="700" alt="scrnaseq2" src="https://github.com/user-attachments/assets/690089f1-c845-4fd5-8c22-df585aadf375">
 
 ### BULK
 - Extract RNA
@@ -50,7 +50,7 @@ SINGLE-CELL RNA SEQ ADVANTAGES
 
 # Basic Workflow
 
-<img width="600" alt="scRNA4" src="https://github.com/user-attachments/assets/cc679f81-4da5-491d-9f5c-ee3ad05b3640">
+<img width="700" alt="scRNA4" src="https://github.com/user-attachments/assets/cc679f81-4da5-491d-9f5c-ee3ad05b3640">
 
 ### Single-cell Isolation
 
