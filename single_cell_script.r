@@ -1,4 +1,8 @@
-# working directory ----
+# Analysis Data type: Cancer - Alveolar rhabdomyosarcoma
+# Accession:	GSE113660
+# Number of cells:	6875
+# Cell Line: Rh41
+# Gene type: PCG lncRNA
 
 #Setting the working directory
 
